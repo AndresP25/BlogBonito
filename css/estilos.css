@@ -33,3 +33,12 @@ body
 #post{
     padding: 1em;
 }
+#Pie_de_pagina{
+    background: red;
+    box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.5);
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em ;
+    font-size: 0.8em;
+}
