@@ -18,4 +18,4 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 >
 > ---
 >
-> **Talvez una ~~prueba mas~~ [del readme](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "clase del readme de platzi") **
+> **Talvez una ~~prueba mas~~ [del readme](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "clase del readme de platzi")**
